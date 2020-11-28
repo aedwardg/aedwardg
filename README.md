@@ -4,7 +4,7 @@ I'm Anthony - a data analyst and self-taught developer. <br>
 My background is originally in Law, and Communication Research before that.
 
 I stumbled across data science and programming by accident and haven't looked back since. <br>
-When I'm not burried in data, chances are I'm hiking, helping out on the Codecademy Forums, or dabbling in mobile development.
+When I'm not burried in data, chances are I'm hiking, helping out on the [Codecademy Forums](https://discuss.codecademy.com/u/el_cocodrilo/summary), or dabbling in mobile development.
 
 
 - 🔭 I’m currently working on: all things Python, and mobile apps in Kivy and Flutter
