@@ -8,7 +8,7 @@ When I'm not buried in data, chances are I'm hiking, helping out on the [Codecad
 
 
 - 🔭 I’m currently working on: all things Python, and mobile apps in Kivy and Flutter
-- 🌱 I’m currently learning Flutter, Dart & Julia
+- 🌱 I’m currently learning Flutter, Dart, Go & Julia
 - 👯 I’m looking to collaborate on anything using the languages/tools below :point_down:
 - 💬 Ask me about my public work or potential collaborations [here](https://github.com/aedwardg/aedwardg/discussions)
 - 📫 How to reach me: for anything else, just shoot me an [email](mailto:anthony@anthonysdata.com)!
