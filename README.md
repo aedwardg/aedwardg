@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Anthony - a backend developer and data analyst with a background in Law, and Communication Research before that.<br>
-I'm also a Moderator for the [Codecademy Discord server](https://discord.gg/codecademy) and a core maintainer of the server's Discord bot.
+I'm Anthony - a fullstack Product Engineer by day and open source software developer by night.<br>
+I'm also an Admin and Moderator for the [Codecademy Discord server](https://discord.gg/codecademy) and a core maintainer of the server's Discord bot.
 
 When I'm not contributing to open source, chances are I'm hiking or dabbling in mobile development.
 
 
-- 🔭 I’m currently working on: 
+- 🔭 In my free time I’m currently working on: 
   - Backend web development (Python)
   - Discord bots (Node.js)
   - VS Code extensions (TypeScript)
